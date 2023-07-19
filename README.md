@@ -1,5 +1,5 @@
 # Space Cream
-Desafio para refatorar o código desse projeto, traduzindo para inglês os comentários e nomes de classes e ids.
+Challenge to refactor the code of this project, translating comments and class names and ids into English.
 
 ## 💜 Contato
 adriansiqueira44@gmail.com
